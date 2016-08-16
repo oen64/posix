@@ -1,0 +1,1 @@
+< /dev/arandom tr -cd [:alnum:] | fold -w 20 | head -5
